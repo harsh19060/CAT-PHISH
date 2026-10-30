@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+data/
+models/*.joblib
+models/model_metadata.json
+results/*.csv
+results/*.json
+results/*.png
